@@ -1,0 +1,22 @@
+{
+  "name": "github-collab-6",
+  "version": "1.0.0",
+  "description": "Google Meet Link - https://meet.google.com/hpk-bcim-zqs?hs=146",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaapp/github-collab-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adaapp/github-collab-6/issues"
+  },
+  "homepage": "https://github.com/adaapp/github-collab-6#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
