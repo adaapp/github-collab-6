@@ -1,13 +1,14 @@
 /* Bordered form */
 form {
-  border: 3px solid #f1f1f1;
-}
+  border: 3px solid #A4CAEE;
+};
+
 
 /* Full-width inputs */
 input[type=text], input[type=password] {
   width: 100%;
   padding: 12px 20px;
-  margin: 8px 0;
+  margin: 8px 20px;
   display: inline-block;
   border: 1px solid #ccc;
   box-sizing: border-box;
@@ -26,7 +27,7 @@ button {
 
 /* Add a hover effect for buttons */
 button:hover {
-  opacity: 0.8;
+  opacity: 10;
 }
 
 
@@ -39,6 +40,7 @@ img.avatar {
 /* Add padding to containers */
 .container {
   padding: 16px;
+  border-style: double;
 }
 
 /* Change styles for span and cancel button on extra small screens */
@@ -50,4 +52,23 @@ img.avatar {
   .cancelbtn {
     width: 100%;
   }
+}
+body {
+  background-color:#E9967A ;
+}
+
+p {
+  color: #696969;
+  font-family: fantasy, Copperplate;
+  margin-left: 20px;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  align-content: center;
+  color: #008B8B;
+  margin-left: 20px;
+  border-style: dotted;
+  text-align: center;
+  
 }
